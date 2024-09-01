@@ -7,7 +7,7 @@ header {
     padding: 30px 25px 30px 25px;
 }
 
-nav a{
+nav a {
     text-decoration: none;
     color: #FFF4F0;
     background-color: #E8695E;
@@ -18,8 +18,8 @@ nav a{
 
 a:active {
     color: black;
-
 }
+
 h1 {
     text-align: center;
     color: #57423F;
@@ -40,11 +40,8 @@ main img {
     padding: 10px 15px 10px 15px;
     border-radius: 15px;
     text-align: center;
+}
 
- }
-
- .section {
+.sections {
     border-top: 5px solid #DA5D46;
- }
-
-
+}
